@@ -79,6 +79,6 @@ The Inventory and Customer Management System successfully addresses the challeng
 
 This project reflects my skills in Python programming, data manipulation, and business operations management. Feel free to explore the code and reach out for collaborations or feedback:
 
-- **GitHub Repository**: [Link to be added]
-- **LinkedIn**: [Your LinkedIn Profile Link]
+- **GitHub Repository**: []
+- **LinkedIn**: [www.linkedin.com/in/sheikh-muskan-359937209]
 
